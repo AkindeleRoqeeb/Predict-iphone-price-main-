@@ -1,5 +1,5 @@
-## Predict-iphone-price-main
+# Predict iphone price main.
 
-# limited dataset.
+## limited dataset.
 
-# you can do web scraping for more dataset.
+## you can do web scraping for more dataset.
