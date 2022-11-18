@@ -1,4 +1,4 @@
-# Predict iphone price main.
+# Predict iphone price.
 
 ## limited dataset.
 
